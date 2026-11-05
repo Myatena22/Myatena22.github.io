@@ -18,22 +18,21 @@ B.S in **Biochemistry** from the **University of Mary** .
 -Clarinet
 
 ## Laboratory Experience
-
-**Undergraduate Researcher** <sub>for Dr. Christine Fleischacker</sub> | Department of Biology  
+🔬 **Undergraduate Researcher** <sub>for Dr. Christine Fleischacker</sub> | Department of Biology  
 *May 2025 – April 2026*
 
 *Loss of function in Bacteriophage*
 
-- The goal was to delete a gene in a bacteriophage to investigate pathogenic infection for possible applications in phage therapy.
-- Designed transgenic insert using bioinformatic tools.
-- Gained experience in transformation and electroporation techniques.
-- Protein purification using commercially available kits.
+- 🧬 The goal was to delete a gene in a bacteriophage to investigate pathogenic infection for possible applications in phage therapy.
+- 💻 Designed transgenic insert using bioinformatic tools.
+- ⚡ Gained experience in transformation and electroporation techniques.
+- 🧪 Protein purification using commercially available kits.
 
-**Undergraduate Researcher** <sub>for Dr. James Peliska</sub> | Department of Biochemistry  
+⚗️ **Undergraduate Researcher** <sub>for Dr. James Peliska</sub> | Department of Biochemistry  
 *January 2025 – April 2025*
 
 *The Development of a Sensor for the Biomarker Glutamine*
 
-- Investigated use of Fluorescent dye-modified GlnH protein as a sensor of glutamine, a potential biomarker of cancer and kidney failure.
-- Purified protein via Ni-affinity chromatography.
-- Modified protein by tagging residue with Acrylodan, and monitored fluorescence in titration experiments.
+- 🔦 Investigated use of Fluorescent dye-modified GlnH protein as a sensor of glutamine, a potential biomarker of cancer and kidney failure.
+- 🧫 Purified protein via Ni-affinity chromatography.
+- 📈 Modified protein by tagging residue with Acrylodan, and monitored fluorescence in titration experiments.
