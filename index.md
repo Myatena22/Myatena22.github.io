@@ -37,5 +37,5 @@ B.S in **Biochemistry** from the **University of Mary** .
 - Purified protein via Ni-affinity chromatography.
 - Modified protein by tagging residue with Acrylodan, and monitored fluorescence in titration experiments.
 
-<img width="240" height="320" alt="prarie rose" src="https://github.com/user-attachments/assets/baff1fec-cad8-4aa9-a52b-5e44b117c414" />
+<img width="204.8" height="115" alt="mya with poster" src="https://github.com/user-attachments/assets/a47acd4b-c416-4988-8d5d-e331874ecbc2" />
 
