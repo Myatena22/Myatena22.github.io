@@ -1,6 +1,5 @@
  
 I am Mya, and I work at United Tribes Technical College. 
-<p>&#128512</p> 
 
 *Laboratory equipment technician for Intertribal Research & Resource Center.*
 
@@ -29,7 +28,7 @@ B.S in **Biochemistry** from the **University of Mary** .
 - Gained experience in transformation and electroporation techniques.
 - Protein purification using commercially available kits.
 
-**Undergraduate Researcher** <sub>for [Dr. James Peliska](https://www.peliskalab.net/Home.html)</sub> | Department of Biochemistry  
+**Undergraduate Researcher** <sub>for Dr. James Peliska</sub> | Department of Biochemistry  
 *January 2025 – April 2025*
 
 *The Development of a Sensor for the Biomarker Glutamine*
