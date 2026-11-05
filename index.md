@@ -37,3 +37,6 @@ B.S in **Biochemistry** from the **University of Mary** .
 - Investigated use of Fluorescent dye-modified GlnH protein as a sensor of glutamine, a potential biomarker of cancer and kidney failure.
 - Purified protein via Ni-affinity chromatography.
 - Modified protein by tagging residue with Acrylodan, and monitored fluorescence in titration experiments.
+
+<img width="48" height="64" alt="prarie rose" src="https://github.com/user-attachments/assets/baff1fec-cad8-4aa9-a52b-5e44b117c414" />
+
