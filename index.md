@@ -11,3 +11,5 @@ B.S in **Biochemistry** from the **University of Mary** .
 
 ## Instruments
 
+-Tenor Saxophone
+-Clarinet
